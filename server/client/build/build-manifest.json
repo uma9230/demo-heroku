@@ -1,0 +1,58 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/0BDIcFN8mCfX1SDeTKloU/_buildManifest.js",
+    "static/0BDIcFN8mCfX1SDeTKloU/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-63157d71ad419e09.js",
+      "static/chunks/main-c59a42b9e9a6f445.js",
+      "static/chunks/pages/index-860c1b9621a10e52.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-63157d71ad419e09.js",
+      "static/chunks/main-c59a42b9e9a6f445.js",
+      "static/css/0ab2b546912e9404.css",
+      "static/chunks/pages/_app-9d0059b4f5a12274.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-63157d71ad419e09.js",
+      "static/chunks/main-c59a42b9e9a6f445.js",
+      "static/chunks/pages/_error-54de1933a164a1ff.js"
+    ],
+    "/forgot-password": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-63157d71ad419e09.js",
+      "static/chunks/main-c59a42b9e9a6f445.js",
+      "static/chunks/pages/forgot-password-146f7247752fc3d3.js"
+    ],
+    "/login": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-63157d71ad419e09.js",
+      "static/chunks/main-c59a42b9e9a6f445.js",
+      "static/chunks/pages/login-3db792cace048273.js"
+    ],
+    "/register": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-63157d71ad419e09.js",
+      "static/chunks/main-c59a42b9e9a6f445.js",
+      "static/chunks/pages/register-f1a6ced9ad2adfaa.js"
+    ],
+    "/user": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-63157d71ad419e09.js",
+      "static/chunks/main-c59a42b9e9a6f445.js",
+      "static/chunks/pages/user-ba23b5428688a4fe.js"
+    ]
+  },
+  "ampFirstPages": []
+}
